@@ -23,7 +23,7 @@ Contents:
 - Social Media
   - [Instaloader](https://instaloader.github.io/) - An Instagram downloading tool with support of private accounts.`Python`
   - [4chan-dl](https://github.com/nektro/4chan-dl) - A 4chan scraper. `Go`
-  - [reddit-dl](https://github.com/The-Eye-Team/reddit-dl) A reddit post/comment/media scraper. `Go`
+  - [reddit-dl](https://github.com/The-Eye-Team/reddit-dl) - A reddit post/comment/media scraper. `Go`
   - [Tik-Tok Scraper](https://github.com/drawrowfly/tiktok-scraper) - A Tiktok scraper. `Typescript`
   
 - Reading
